@@ -45,7 +45,7 @@ export default {
     WhiteOrbLoader,
     PlanetLoader,
     GooeyLoader,
-    WordTornadoLoader
+    WordTornadoLoader,
   }
 }
 </script>
