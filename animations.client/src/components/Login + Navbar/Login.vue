@@ -32,8 +32,8 @@
 
 <script>
 import { computed } from 'vue'
-import { AppState } from '../AppState'
-import { AuthService } from '../services/AuthService'
+import { AppState } from '../../AppState'
+import { AuthService } from '../../services/AuthService'
 export default {
   setup() {
     return {
@@ -51,4 +51,5 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
 </style>

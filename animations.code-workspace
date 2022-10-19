@@ -1,4 +1,3 @@
-
 {
   "folders": [
     {
@@ -37,6 +36,7 @@
       "source.fixAll": true
     },
     "cSpell.words": [
+      "backfaces",
       "lightsaber"
     ]
   }

@@ -14,7 +14,7 @@
 <script>
 import { computed } from 'vue'
 import { AppState } from './AppState'
-import Navbar from './components/Navbar.vue'
+import Navbar from './components/Login + Navbar/Navbar.vue'
 
 export default {
   setup() {
