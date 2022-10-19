@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex justify-content-center mt-5 pt-5 bg-black">
+  <div class="d-flex justify-content-center mt-5 p-5 bg-black">
     <div class="cat">
       <div class="ear ear--left"></div>
       <div class="ear ear--right"></div>
