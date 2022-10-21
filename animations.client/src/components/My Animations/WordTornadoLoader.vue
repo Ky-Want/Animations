@@ -2,53 +2,56 @@
   <div id="container">
     <div id="stage">
       <div id="shape" class="cube backfaces">
-        <div class="player one">
+        <div class="player one text-dark">
           Bell
         </div>
 
-        <div class="player two">
+        <div class="player two text-dark">
           Ky
         </div>
 
-        <div class="player three">
+        <div class="player three text-dark">
           Keith
         </div>
 
-        <div class="player four">
+        <div class="player four text-dark">
           Tyler
         </div>
 
-        <div class="player five">
+        <div class="player five text-dark">
           Ryan
         </div>
 
-        <div class="player six">
+        <div class="player six text-dark">
           Jake
         </div>
 
-        <div class="player seven">
+        <div class="player seven text-dark">
           Mick
         </div>
 
-        <div class="player eight">
+        <div class="player eight text-dark">
           Ben
         </div>
 
-        <div class="player nine">
+        <div class="player nine text-dark">
           Tom
         </div>
 
-        <div class="player eleven">
+        <div class="player eleven text-dark">
           Timothy
         </div>
 
-        <div class="player twelve">
+        <div class="player twelve text-dark">
           Rich
         </div>
       </div>
     </div>
   </div>
 </template>
+
+
+
 
 
 <script>
@@ -61,6 +64,9 @@ export default {
   }
 }
 </script>
+
+
+
 
 
 <style lang="scss" scoped>

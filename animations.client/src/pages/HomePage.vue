@@ -1,21 +1,31 @@
 <template>
+  <div class="mb-5 pb-5">
+    <WalkingCatLoader />
+  </div>
 
-  <!-- <WatchingCatLoader /> -->
+  <div class="mb-5 pb-5">
+    <WhiteOrbLoader />
+  </div>
 
-  <!-- <WalkingCatLoader /> -->
+  <div class="mb-5 pb-5">
+    <PlanetLoader />
+  </div>
+
+  <div class="mb-5 pb-5">
+    <WordTornadoLoader />
+  </div>
+
+  <div class="mb-5 pb-5">
+    <WatchingCatLoader />
+  </div>
+
+
 
   <!-- <LightSabers /> -->
 
   <!-- <InfinityLoopCord /> -->
 
-  <!-- <WhiteOrbLoader /> -->
-
-  <!-- <PlanetLoader /> -->
-
   <!-- <GooeyLoader /> -->
-
-  <!-- <WordTornadoLoader /> -->
-
 </template>
 
 
